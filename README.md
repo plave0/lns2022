@@ -1,2 +1,1 @@
-# lns2022
-Kako istražujemo podatke?
+# Kako istražujemo podatke?
